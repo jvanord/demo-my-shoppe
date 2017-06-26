@@ -7,7 +7,7 @@ namespace MyShop
     {
         public HomeViewModel(Page page) : base(page)
         {
-            Title = "My Shoppe";
+            Title = "Indasys Shoppe Demo";
         }
 
 

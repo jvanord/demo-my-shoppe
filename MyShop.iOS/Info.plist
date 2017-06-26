@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>My Shoppe</string>
+	<string>Indasys Shoppe Demo</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.refractored.myshoppe</string>
 	<key>CFBundleShortVersionString</key>
